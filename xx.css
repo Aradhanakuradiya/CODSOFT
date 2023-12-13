@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+*{
+    background-color: rgb(7, 7, 37);
+}
+.mx-auto{
+    margin: auto;
+    text-align: center;
+}
+.button{
+    padding: 30px ;
+    margin: 5px 5px;
+    border-color:  black;
+    cursor:  pointer;
+    font-size: larger;
+    font-weight: 500;
+    background-color: rgb(182, 178, 178);
+    border-radius: 120px;
+}
+.flex{
+    display: flex;
+}
+.flex-box{
+    flex-direction: column;
+}
+.row{
+    margin: 8px 0px;
+}
+.input{
+    border-radius: 10px;
+    border-color: black;
+    padding: 13px 43px;
+    max-width: 30vw;
+    font-size: larger;
+    background-color: rgb(182, 178, 178);
+}
